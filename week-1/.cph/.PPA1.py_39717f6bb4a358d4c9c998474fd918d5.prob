@@ -1,0 +1,1 @@
+{"name":"Local: PPA1","url":"c:\\vidhatrihr\\Code\\PDSA\\week-1\\PPA1.py","tests":[{"id":1718028515335,"input":"1\n11","output":"[(3, 5), (5, 7)]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatrihr\\Code\\PDSA\\week-1\\PPA1.py","group":"local","local":true}

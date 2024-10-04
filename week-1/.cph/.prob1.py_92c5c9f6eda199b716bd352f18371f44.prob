@@ -1,0 +1,1 @@
+{"name":"Local: prob1","url":"c:\\vidhatrihr\\Code\\PDSA\\week-1\\prob1.py","tests":[{"id":1717827182754,"input":"12","output":"False"},{"id":1717827408869,"input":"6","output":"True"},{"id":1717827412077,"input":"35","output":"True"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatrihr\\Code\\PDSA\\week-1\\prob1.py","group":"local","local":true}

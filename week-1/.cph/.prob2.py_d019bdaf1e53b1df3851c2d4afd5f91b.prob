@@ -1,0 +1,1 @@
+{"name":"Local: prob2","url":"c:\\vidhatrihr\\Code\\PDSA\\week-1\\prob2.py","tests":[{"id":1717829905809,"input":"banana\nb","output":"anana"},{"id":1717838942146,"input":"apple\np","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\vidhatrihr\\Code\\PDSA\\week-1\\prob2.py","group":"local","local":true}
